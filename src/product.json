@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "description": "A powerful smartphone with advanced features.",
+    "price": 699.99,
+    "category": "Electronics",
+    "imageSrc" : "/assets/images/smartphone.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop Pro",
+    "description": "High-performance laptop for professional use.",
+    "price": 1299.99,
+    "category": "Electronics",
+    "imageSrc" : "/assets/images/macbookPro.png"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "description": "Premium wireless headphones with noise-cancelling.",
+    "price": 249.99,
+    "category": "Electronics",
+    "imageSrc":"/assets/images/image.png"
+  },
+  {
+    "id": 4,
+    "name": "Smart TV 4K",
+    "description": "Ultra HD smart TV with a sleek design.",
+    "price": 899.99,
+    "category": "Electronics",
+    "imageSrc":"/assets/images/smartTv.png"
+  },
+  {
+    "id": 5,
+    "name": "Fitness Tracker",
+    "description": "Activity tracker with heart rate monitoring.",
+    "price": 79.99,
+    "category": "Fitness",
+    "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 6,
+    "name": "Digital Camera",
+    "description": "Compact digital camera for capturing memories.",
+    "price": 399.99,
+    "category": "Electronics",
+     "imageSrc":"/assets/images/digiCam.png"
+  },
+  {
+    "id": 7,
+    "name": "Gaming Console",
+    "description": "Next-generation gaming console for immersive gameplay.",
+    "price": 499.99,
+    "category": "Gaming",
+     "imageSrc":"/assets/images/gamingConsole.png"
+  },
+  {
+    "id": 8,
+    "name": "Smart Watch",
+    "description": "Stylish smartwatch with health monitoring features.",
+    "price": 199.99,
+    "category": "Electronics",
+     "imageSrc":"/assets/images/smartWatch.png"
+  },
+  {
+    "id": 9,
+    "name": "Portable Bluetooth Speaker",
+    "description": "Compact speaker with wireless Bluetooth connectivity.",
+    "price": 49.99,
+    "category": "Electronics",
+     "imageSrc":"/assets/images/btSpeaker.png"
+  },
+  {
+    "id": 10,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse for comfortable use.",
+    "price": 29.99,
+    "category": "Computers",
+     "imageSrc":"/assets/images/wirelessMouse.png"
+  },
+  {
+    "id": 11,
+    "name": "Desk Lamp",
+    "description": "Adjustable LED desk lamp for study or work.",
+    "price": 39.99,
+    "category": "Home",
+     "imageSrc":"/assets/images/deskLamp.png"
+  },
+  {
+    "id": 12,
+    "name": "Kitchen Blender",
+    "description": "High-speed blender for smoothies and food preparation.",
+    "price": 69.99,
+    "category": "Home",
+     "imageSrc":"/assets/images/blender.png"
+  },
+  {
+    "id": 13,
+    "name": "Men's Running Shoes",
+    "description": "Comfortable running shoes for men.",
+    "price": 89.99,
+    "category": "Fashion",
+     "imageSrc":"/assets/images/shoes.png"
+  },
+  {
+    "id": 14,
+    "name": "Women's Backpack",
+    "description": "Stylish backpack for women with multiple compartments.",
+    "price": 59.99,
+    "category": "Fashion",
+     "imageSrc":"/assets/images/backpack.png"
+  },
+  {
+    "id": 15,
+    "name": "Office Chair",
+    "description": "Ergonomic office chair with lumbar support.",
+    "price": 179.99,
+    "category": "Office",
+     "imageSrc":"/assets/images/chair.png"
+  },
+  {
+    "id": 16,
+    "name": "Portable External Hard Drive",
+    "description": "High-capacity external storage solution.",
+    "price": 119.99,
+    "category": "Computers",
+     "imageSrc":"/assets/images/hardDriver.png"
+  },
+  {
+    "id": 17,
+    "name": "Yoga Mat",
+    "description": "Non-slip yoga mat for yoga and exercise.",
+    "price": 29.99,
+    "category": "Fitness",
+     "imageSrc":"/assets/images/yogaMat.png"
+  },
+  {
+    "id": 18,
+    "name": "Sunglasses",
+    "description": "UV protection sunglasses with polarized lenses.",
+    "price": 49.99,
+    "category": "Fashion",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 19,
+    "name": "Handheld Vacuum Cleaner",
+    "description": "Compact vacuum cleaner for quick cleaning tasks.",
+    "price": 79.99,
+    "category": "Home",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 20,
+    "name": "Smart Thermostat",
+    "description": "WiFi-enabled smart thermostat for home climate control.",
+    "price": 149.99,
+    "category": "Home",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 21,
+    "name": "Electric Toothbrush",
+    "description": "Electric toothbrush with multiple cleaning modes.",
+    "price": 59.99,
+    "category": "Personal Care",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 22,
+    "name": "Digital Alarm Clock",
+    "description": "Modern digital alarm clock with LED display.",
+    "price": 19.99,
+    "category": "Home",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 23,
+    "name": "Men's Watch",
+    "description": "Classic men's watch with stainless steel band.",
+    "price": 129.99,
+    "category": "Fashion",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 24,
+    "name": "Women's Sneakers",
+    "description": "Casual sneakers for women with breathable mesh.",
+    "price": 69.99,
+    "category": "Fashion",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 25,
+    "name": "Travel Backpack",
+    "description": "Durable travel backpack with multiple compartments.",
+    "price": 89.99,
+    "category": "Travel",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 26,
+    "name": "Coffee Maker",
+    "description": "Programmable coffee maker with auto-brew feature.",
+    "price": 79.99,
+    "category": "Home",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 27,
+    "name": "Wireless Keyboard",
+    "description": "Slim and ergonomic wireless keyboard for computers.",
+    "price": 49.99,
+    "category": "Computers",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 28,
+    "name": "Winter Jacket",
+    "description": "Warm winter jacket with insulation and water resistance.",
+    "price": 149.99,
+    "category": "Fashion",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 29,
+    "name": "Digital Scale",
+    "description": "Accurate digital scale for kitchen or personal use.",
+    "price": 24.99,
+    "category": "Home",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  },
+  {
+    "id": 30,
+    "name": "Bluetooth Earbuds",
+    "description": "True wireless Bluetooth earbuds with charging case.",
+    "price": 99.99,
+    "category": "Electronics",
+     "imageSrc":"/assets/images/fitnessTracker.png"
+  }
+]
